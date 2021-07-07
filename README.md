@@ -27,12 +27,11 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepakkushwha&show_icons=true&locale=en" alt="deepakkushwha" /></p>
+ 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=deepakkushwha&show_icons=true&locale=en&&theme=react&hide_border=true&bg_color=0D1117" alt="deepakkushwha" /></p>
 ## 📊 Language I Used
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkushwha&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="deepakkushwha" /></p>
-<br /><br />
+
 
 
 
