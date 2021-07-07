@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Deepak mehta</h1>
-<h3 align="left">A boy trying to Achieve Our Dreams!!</h3>
+<h1 align="left">Hello, this is Deepak 👋</h1>
+<h3 align="left">I am Deepak mehta, An tech enthusiast, and a self taught programmer,I love the the world of coding.I am trying to create magic with my skill's...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwha" /> </p>
 >
