@@ -1,7 +1,7 @@
 <h1 align="left">Hello, this is Deepak 👋</h1>
 <h3 align="left"  width="40">I am Deepak mehta, An tech enthusiast, and a self taught programmer,I love the the world of coding.I am trying to create magic with my skill's...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=#FFFF00.&style=flat" alt="deepakkushwha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=.&style=flat" alt="deepakkushwha" /> </p>
 
 
 
