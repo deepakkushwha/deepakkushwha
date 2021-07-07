@@ -2,8 +2,7 @@
 <h3 align="center">A boy trying to Achieve Our Dreams!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkushwha" alt="deepakkushwha" /></a> </p>
+>
 
 <p align="left"> <a href="https://twitter.com/imspideey" target="blank"><img src="https://img.shields.io/twitter/follow/imspideey?logo=twitter&style=for-the-badge" alt="imspideey" /></a> </p>
 
