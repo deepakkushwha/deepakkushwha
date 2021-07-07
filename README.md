@@ -1,10 +1,9 @@
 <h1 align="left">Hello, this is Deepak 👋</h1>
 <h3 align="left"  width="40">I am Deepak mehta, An tech enthusiast, and a self taught programmer,I love the the world of coding.I am trying to create magic with my skill's...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwha" /> </p>
->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=00000000&style=flat" alt="deepakkushwha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imspideey" target="blank"><img src="https://img.shields.io/twitter/follow/imspideey?logo=twitter&style=for-the-badge" alt="imspideey" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
