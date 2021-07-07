@@ -1,8 +1,11 @@
 <h1 align="left">Hello, this is Deepak 👋</h1>
-<div dir="rtl">I am Deepak mehta, An tech enthusiast,and a self taught programmer,I love the world of coding.I am trying to create magic with my skill's..</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwha" /> </p>
+<p>I am Deepak mehta, An tech enthusiast,and a self taught programmer,I love the world of coding.I am trying to create magic with my skill's..</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=129e00&style=flat" alt="deepakkushwha" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
+
+- -📫 How to reach me **talktokhushboogoel@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imspideey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imspideey" height="30" width="40" /></a>
