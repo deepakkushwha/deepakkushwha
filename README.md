@@ -2,7 +2,7 @@
 <p>I am Deepak mehta, An tech enthusiast,and a self taught programmer,I love the world of coding.I am trying to create magic with my skill's..</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=129e00&style=flat" alt="deepakkushwha" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/iXuL1HG.png" height="175px">
+<img align="right" alt="Coding" src="https://i.imgur.com/iXuL1HG.png" height="175px">
 
 
 
