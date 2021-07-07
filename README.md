@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, this is Deepak</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, this is Deepak</h1>
 
 <img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-<h3 align="left">--⚡Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imspideey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imspideey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deep-kushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-kushwaha/" height="30" width="40" /></a>
