@@ -2,7 +2,7 @@
 
 <img width="100%"  height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
-<h3>I am Deepak mehta, An tech enthusiast,and a self taught programmer,I love the world of coding.I am trying to create magic with my skill's..</h3>
+<h3>I am Deepak mehta, An tech enthusiast, and a self taught programmer, I love the world of coding. I am trying to create magic with my skill's..</h3>
 
 
 
