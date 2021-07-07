@@ -34,15 +34,14 @@
 </p>
 <br />
 
- 📊 Language I Used 
+ <h1 >📊 Language I Used </h1>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkushwha&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="deepakkushwha" /></p>
 
-  📊 My Github Stats
- 
+  <h1 > 📊 My Github Stats</h1>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkushwha&show_icons=true&locale=en&&theme=react&hide_border=true&bg_color=0D1117" alt="deepakkushwha" /></p>
 
 
 
 
- <h1 align="center"> 👀 My Github Views</h>
+<p align="center">👀 My Github Views</p>
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=deepakkushwha&label=Profile%20views&color=129e00&style=flat" alt="deepakkushwha" /> </h1>
