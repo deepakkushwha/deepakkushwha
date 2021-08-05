@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me  <a href="workfordeep@gmail.com"> **workfordeep@gmail.com**</a>
+- 📫 How to reach me  <a href="workfordeeep@gmail.com"> **workfordeep@gmail.com**</a>
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
