@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[E-commerce Website]**
+- 🔭 I’m currently working under **DGLIGER**
 
 - 🌱 I’m currently learning **Advance Front-End Dsigning**
 
